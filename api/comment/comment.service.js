@@ -58,7 +58,7 @@ async function add(comment) {
 async function update(comment) {
     try {
         const commentToSave = {
-            email: comment.email,
+            to: comment.to,
             message: comment.message
         }
         const collection = await dbService.getCollection('comment')
