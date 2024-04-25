@@ -1,9 +1,11 @@
 import { commentService } from './comment.service.js'
 import { logger } from '../../services/logger.service.js'
-import { userService } from '../user/user.service.js'
+// import { userService } from '../user/user.service.js'
 
 export async function getComments(req, res) {
     try {
+        console.log('req.query.params:', req.query.params)
+        console.log('req.query:', req.query)
         logger.debug('Getting Comments:', req.query)
         const { filterBy } = req.query.params
         const comments = await commentService.query(filterBy)
@@ -26,13 +28,13 @@ export async function getCommentById(req, res) {
 }
 
 export async function addComment(req, res) {
-    const { loggedinUser } = req
-    const owner = await userService.getById(loggedinUser._id)
-    console.log('owner:', owner)
+    // const { loggedinUser } = req
+    // const owner = await userService.getById(loggedinUser._id)
+    // console.log('owner:', owner)
     try {
         const comment = req.body
-        comment.owner = owner
-        comment.owner.rate = comment.owner.rate || 0
+        // comment.owner = owner
+        // comment.owner.rate = comment.owner.rate || 0
         const addedComment = await commentService.add(comment)
         res.json(addedComment)
     } catch (err) {

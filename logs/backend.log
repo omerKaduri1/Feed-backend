@@ -1,0 +1,463 @@
+25.4.2024, 14:30:16 - INFO - Server is running on port: 3030 
+25.4.2024, 14:30:24 - INFO - Sample Logger Middleware 
+25.4.2024, 14:30:24 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+25.4.2024, 14:30:24 - DEBUG - Getting Comments: | {} 
+25.4.2024, 14:30:56 - INFO - Sample Logger Middleware 
+25.4.2024, 14:30:56 - DEBUG - Getting Comments: | {"txt":"''"} 
+25.4.2024, 14:30:56 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+25.4.2024, 14:32:15 - INFO - Server is running on port: 3030 
+25.4.2024, 14:32:20 - INFO - Server is running on port: 3030 
+25.4.2024, 14:32:22 - INFO - Server is running on port: 3030 
+25.4.2024, 14:32:26 - INFO - Sample Logger Middleware 
+25.4.2024, 14:32:26 - ERROR - Failed to get comments | ReferenceError: filterBy is not defined 
+25.4.2024, 14:32:26 - DEBUG - Getting Comments: | {} 
+25.4.2024, 14:33:02 - INFO - Server is running on port: 3030 
+25.4.2024, 14:33:05 - INFO - Sample Logger Middleware 
+25.4.2024, 14:33:05 - DEBUG - Getting Comments: | {} 
+25.4.2024, 14:33:06 - ERROR - cannot find comments | ReferenceError: criteria is not defined 
+25.4.2024, 14:33:06 - ERROR - Failed to get comments | ReferenceError: criteria is not defined 
+25.4.2024, 14:33:31 - INFO - Server is running on port: 3030 
+25.4.2024, 14:33:32 - DEBUG - Getting Comments: | {} 
+25.4.2024, 14:33:32 - INFO - Sample Logger Middleware 
+25.4.2024, 14:35:08 - INFO - Server is running on port: 3030 
+25.4.2024, 14:37:05 - INFO - Server is running on port: 3030 
+25.4.2024, 14:37:28 - INFO - Server is running on port: 3030 
+25.4.2024, 14:37:39 - INFO - Sample Logger Middleware 
+25.4.2024, 14:37:39 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+25.4.2024, 14:37:39 - DEBUG - Getting Comments: | {} 
+25.4.2024, 14:38:25 - INFO - Server is running on port: 3030 
+25.4.2024, 14:38:27 - INFO - Sample Logger Middleware 
+25.4.2024, 14:38:27 - DEBUG - Getting Comments: | {} 
+25.4.2024, 14:38:27 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+25.4.2024, 14:38:47 - INFO - Sample Logger Middleware 
+25.4.2024, 14:38:47 - DEBUG - Getting Comments: | {"txt":"\"\""} 
+25.4.2024, 14:38:47 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+25.4.2024, 14:43:36 - INFO - Server is running on port: 3030 
+25.4.2024, 14:43:38 - INFO - Sample Logger Middleware 
+25.4.2024, 14:43:38 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+25.4.2024, 14:43:38 - DEBUG - Getting Comments: | {"txt":"\"\""} 
+25.4.2024, 14:45:20 - INFO - Server is running on port: 3030 
+25.4.2024, 14:45:31 - INFO - Server is running on port: 3030 
+25.4.2024, 14:45:33 - INFO - Sample Logger Middleware 
+25.4.2024, 14:45:33 - DEBUG - Getting Comments: | {"txt":""} 
+25.4.2024, 14:45:33 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'txt' of 'req.query.params' as it is undefined. 
+25.4.2024, 14:45:48 - INFO - Server is running on port: 3030 
+25.4.2024, 14:45:51 - INFO - Sample Logger Middleware 
+25.4.2024, 14:45:51 - DEBUG - Getting Comments: | {"txt":""} 
+25.4.2024, 14:46:01 - INFO - Sample Logger Middleware 
+25.4.2024, 14:46:01 - DEBUG - Getting Comments: | {"txt":"omer"} 
+25.4.2024, 14:46:01 - ERROR - cannot find comments | ReferenceError: filterBy is not defined 
+25.4.2024, 14:46:01 - ERROR - Failed to get comments | ReferenceError: filterBy is not defined 
+25.4.2024, 14:46:38 - INFO - Server is running on port: 3030 
+25.4.2024, 14:46:40 - INFO - Sample Logger Middleware 
+25.4.2024, 14:46:40 - DEBUG - Getting Comments: | {"txt":"omer"} 
+25.4.2024, 14:56:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 14:56:06 - INFO - Sample Logger Middleware 
+25.4.2024, 14:56:06 - INFO - Sample Logger Middleware 
+25.4.2024, 14:56:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 14:56:06 - INFO - Sample Logger Middleware 
+25.4.2024, 14:56:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 14:57:03 - INFO - Sample Logger Middleware 
+25.4.2024, 14:57:03 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:05:55 - INFO - Sample Logger Middleware 
+25.4.2024, 15:05:55 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:05:55 - INFO - Sample Logger Middleware 
+25.4.2024, 15:05:55 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:05:56 - INFO - Sample Logger Middleware 
+25.4.2024, 15:05:56 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:06:06 - INFO - Sample Logger Middleware 
+25.4.2024, 15:06:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:07:23 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:07:23 - INFO - Sample Logger Middleware 
+25.4.2024, 15:07:23 - INFO - Sample Logger Middleware 
+25.4.2024, 15:07:23 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:07:23 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:07:23 - INFO - Sample Logger Middleware 
+25.4.2024, 15:07:39 - INFO - Sample Logger Middleware 
+25.4.2024, 15:07:39 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:07:39 - INFO - Sample Logger Middleware 
+25.4.2024, 15:07:39 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:07:39 - INFO - Sample Logger Middleware 
+25.4.2024, 15:07:39 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:15 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:15 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:17 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:17 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:17 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:17 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:17 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:17 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:32 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:32 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:33 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:33 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:33 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:33 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:53 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:53 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:54 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 15:08:54 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:55 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"om"}}} 
+25.4.2024, 15:08:55 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:55 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:55 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ome"}}} 
+25.4.2024, 15:08:58 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:58 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:58 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:08:58 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:58 - INFO - Sample Logger Middleware 
+25.4.2024, 15:08:58 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:09:04 - INFO - Sample Logger Middleware 
+25.4.2024, 15:09:04 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:09:07 - INFO - Sample Logger Middleware 
+25.4.2024, 15:09:07 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 15:09:08 - INFO - Sample Logger Middleware 
+25.4.2024, 15:09:08 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"om"}}} 
+25.4.2024, 15:09:08 - INFO - Sample Logger Middleware 
+25.4.2024, 15:09:08 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ome"}}} 
+25.4.2024, 15:10:59 - INFO - Server is running on port: 3030 
+25.4.2024, 15:11:06 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:06 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:06 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:06 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:06 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:06 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:09 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:09 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:09 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:09 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:09 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:09 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:30 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:31 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:31 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:31 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:31 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:11:31 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:12:40 - INFO - Server is running on port: 3030 
+25.4.2024, 15:12:43 - INFO - Server is running on port: 3030 
+25.4.2024, 15:12:53 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:12:53 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:12:56 - INFO - Sample Logger Middleware 
+25.4.2024, 15:12:56 - DEBUG - Getting Comments: | {"txt":"omer"} 
+25.4.2024, 15:12:56 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+25.4.2024, 15:12:58 - INFO - Sample Logger Middleware 
+25.4.2024, 15:12:58 - DEBUG - Getting Comments: | {"txt":"omer"} 
+25.4.2024, 15:12:58 - ERROR - Failed to get comments | TypeError: Cannot destructure property 'filterBy' of 'req.query.params' as it is undefined. 
+25.4.2024, 15:13:07 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:13:07 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:13:07 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:13:07 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:13:07 - ERROR - while finding comment comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:13:07 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:16:25 - INFO - Server is running on port: 3030 
+25.4.2024, 15:16:28 - INFO - Sample Logger Middleware 
+25.4.2024, 15:16:28 - DEBUG - Getting Comments: | {"txt":"omer"} 
+25.4.2024, 15:16:28 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:16:28 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:18:34 - ERROR - while finding comment gig | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:18:34 - ERROR - Failed to get comment | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer 
+25.4.2024, 15:19:02 - INFO - Sample Logger Middleware 
+25.4.2024, 15:19:02 - DEBUG - Getting Comments: | {"txt":"omer"} 
+25.4.2024, 15:19:02 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:19:02 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:19:27 - INFO - Server is running on port: 3030 
+25.4.2024, 15:19:29 - INFO - Sample Logger Middleware 
+25.4.2024, 15:19:29 - DEBUG - Getting Comments: | {"txt":"omer"} 
+25.4.2024, 15:19:29 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:19:29 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:20:15 - INFO - Sample Logger Middleware 
+25.4.2024, 15:20:15 - DEBUG - Getting Comments: | {} 
+25.4.2024, 15:20:15 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:20:15 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:21:43 - INFO - Sample Logger Middleware 
+25.4.2024, 15:21:43 - DEBUG - Getting Comments: | {"txt":""} 
+25.4.2024, 15:21:43 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:21:43 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:23:06 - INFO - Sample Logger Middleware 
+25.4.2024, 15:23:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:23:06 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:23:06 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:23:06 - INFO - Sample Logger Middleware 
+25.4.2024, 15:23:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:23:06 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:23:06 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:23:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:23:06 - INFO - Sample Logger Middleware 
+25.4.2024, 15:23:07 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:23:07 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:23:58 - INFO - Sample Logger Middleware 
+25.4.2024, 15:23:58 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:23:58 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:23:58 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:24:04 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:24:04 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:24:04 - INFO - Sample Logger Middleware 
+25.4.2024, 15:24:04 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:24:04 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:24:04 - INFO - Sample Logger Middleware 
+25.4.2024, 15:24:04 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:24:04 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:24:07 - INFO - Sample Logger Middleware 
+25.4.2024, 15:24:07 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"g"}}} 
+25.4.2024, 15:24:07 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:24:07 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:24:58 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"g"}}} 
+25.4.2024, 15:24:58 - INFO - Sample Logger Middleware 
+25.4.2024, 15:24:58 - ERROR - Failed to get comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:24:58 - ERROR - cannot find comments | TypeError: Cannot read properties of undefined (reading 'txt') 
+25.4.2024, 15:25:40 - INFO - Server is running on port: 3030 
+25.4.2024, 15:25:49 - INFO - Sample Logger Middleware 
+25.4.2024, 15:25:49 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:25:51 - INFO - Sample Logger Middleware 
+25.4.2024, 15:25:51 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:25:59 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 15:25:59 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:02 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"om"}}} 
+25.4.2024, 15:26:02 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:02 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:02 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ome"}}} 
+25.4.2024, 15:26:03 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:03 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"omer"}}} 
+25.4.2024, 15:26:04 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:04 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ome"}}} 
+25.4.2024, 15:26:04 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:04 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"om"}}} 
+25.4.2024, 15:26:05 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 15:26:05 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:05 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:05 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:26:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 15:26:06 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:07 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"om"}}} 
+25.4.2024, 15:26:07 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:07 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ome"}}} 
+25.4.2024, 15:26:07 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:08 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:08 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"omer"}}} 
+25.4.2024, 15:26:08 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:08 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"omerr"}}} 
+25.4.2024, 15:26:09 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:09 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"omer"}}} 
+25.4.2024, 15:26:09 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:09 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ome"}}} 
+25.4.2024, 15:26:09 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:09 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"om"}}} 
+25.4.2024, 15:26:09 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 15:26:09 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:10 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:10 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:26:10 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:10 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"a"}}} 
+25.4.2024, 15:26:11 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:11 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"am"}}} 
+25.4.2024, 15:26:11 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:11 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ami"}}} 
+25.4.2024, 15:26:12 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:12 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"amit"}}} 
+25.4.2024, 15:26:13 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"amitt"}}} 
+25.4.2024, 15:26:13 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:14 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:14 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"amittt"}}} 
+25.4.2024, 15:26:14 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:14 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"amitttt"}}} 
+25.4.2024, 15:26:14 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:14 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"amittt"}}} 
+25.4.2024, 15:26:15 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:15 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"amitt"}}} 
+25.4.2024, 15:26:15 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:15 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ami"}}} 
+25.4.2024, 15:26:15 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:15 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"am"}}} 
+25.4.2024, 15:26:15 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:15 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:26:16 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:16 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"b"}}} 
+25.4.2024, 15:26:17 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ba"}}} 
+25.4.2024, 15:26:17 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:17 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:17 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"bar"}}} 
+25.4.2024, 15:26:19 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:19 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ba"}}} 
+25.4.2024, 15:26:20 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:26:20 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:31 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"bl"}}} 
+25.4.2024, 15:26:31 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:31 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"b"}}} 
+25.4.2024, 15:26:31 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:31 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:31 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"bla"}}} 
+25.4.2024, 15:26:32 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:32 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blab"}}} 
+25.4.2024, 15:26:32 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:32 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blabl"}}} 
+25.4.2024, 15:26:32 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:32 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blabla"}}} 
+25.4.2024, 15:26:33 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:33 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blablab"}}} 
+25.4.2024, 15:26:33 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blablabl"}}} 
+25.4.2024, 15:26:33 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:33 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:33 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blablabla"}}} 
+25.4.2024, 15:26:34 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:34 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blablabl"}}} 
+25.4.2024, 15:26:35 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blabl"}}} 
+25.4.2024, 15:26:35 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:35 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:35 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:35 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"blab"}}} 
+25.4.2024, 15:26:35 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"bla"}}} 
+25.4.2024, 15:26:38 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:38 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:26:38 - INFO - Sample Logger Middleware 
+25.4.2024, 15:26:38 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:27:03 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"g"}}} 
+25.4.2024, 15:27:03 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:06 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:27:06 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:06 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 15:27:10 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:10 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"om"}}} 
+25.4.2024, 15:27:10 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:10 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"ome"}}} 
+25.4.2024, 15:27:11 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:11 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"om"}}} 
+25.4.2024, 15:27:11 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:11 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 15:27:11 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:11 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:27:44 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:44 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:27:44 - INFO - Sample Logger Middleware 
+25.4.2024, 15:27:44 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:28:46 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:28:46 - INFO - Sample Logger Middleware 
+25.4.2024, 15:28:46 - INFO - Sample Logger Middleware 
+25.4.2024, 15:28:46 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:30:58 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:30:57 - INFO - Sample Logger Middleware 
+25.4.2024, 15:31:18 - INFO - Sample Logger Middleware 
+25.4.2024, 15:31:18 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:31:18 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:31:18 - INFO - Sample Logger Middleware 
+25.4.2024, 15:35:55 - INFO - Sample Logger Middleware 
+25.4.2024, 15:35:55 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:36:04 - INFO - Sample Logger Middleware 
+25.4.2024, 15:36:04 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:44:21 - INFO - Sample Logger Middleware 
+25.4.2024, 15:44:21 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:44:21 - INFO - Sample Logger Middleware 
+25.4.2024, 15:44:21 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:44:38 - INFO - Sample Logger Middleware 
+25.4.2024, 15:44:38 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:44:38 - INFO - Sample Logger Middleware 
+25.4.2024, 15:44:38 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:44:53 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:44:53 - INFO - Sample Logger Middleware 
+25.4.2024, 15:44:53 - INFO - Sample Logger Middleware 
+25.4.2024, 15:44:53 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:45:14 - INFO - Sample Logger Middleware 
+25.4.2024, 15:45:15 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:45:15 - INFO - Sample Logger Middleware 
+25.4.2024, 15:45:15 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:45:19 - INFO - Sample Logger Middleware 
+25.4.2024, 15:45:19 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:46:33 - INFO - Sample Logger Middleware 
+25.4.2024, 15:46:33 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:47:00 - INFO - Sample Logger Middleware 
+25.4.2024, 15:47:00 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:47:00 - INFO - Sample Logger Middleware 
+25.4.2024, 15:47:00 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:56:33 - INFO - Sample Logger Middleware 
+25.4.2024, 15:56:33 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:56:33 - INFO - Sample Logger Middleware 
+25.4.2024, 15:56:33 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:57:45 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:57:45 - INFO - Sample Logger Middleware 
+25.4.2024, 15:57:45 - INFO - Sample Logger Middleware 
+25.4.2024, 15:57:45 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:57:50 - INFO - Sample Logger Middleware 
+25.4.2024, 15:57:50 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 15:57:50 - INFO - Sample Logger Middleware 
+25.4.2024, 15:57:50 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:03:54 - INFO - Sample Logger Middleware 
+25.4.2024, 16:03:54 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:03:54 - INFO - Sample Logger Middleware 
+25.4.2024, 16:03:54 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:19 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:19 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:19 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:19 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:24 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:24 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:24 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:24 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:26 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:26 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:26 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:26 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:35 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:35 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:35 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:35 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:55 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:55 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:59 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:59 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:04:59 - INFO - Sample Logger Middleware 
+25.4.2024, 16:04:59 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:05:38 - INFO - Sample Logger Middleware 
+25.4.2024, 16:05:38 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:05:38 - INFO - Sample Logger Middleware 
+25.4.2024, 16:05:38 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:05:53 - INFO - Sample Logger Middleware 
+25.4.2024, 16:05:53 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:05:53 - INFO - Sample Logger Middleware 
+25.4.2024, 16:05:53 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:09:43 - INFO - Sample Logger Middleware 
+25.4.2024, 16:09:43 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:09:44 - INFO - Sample Logger Middleware 
+25.4.2024, 16:09:44 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:09:58 - INFO - Sample Logger Middleware 
+25.4.2024, 16:09:58 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:11:45 - INFO - Sample Logger Middleware 
+25.4.2024, 16:11:45 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:11:45 - INFO - Sample Logger Middleware 
+25.4.2024, 16:11:45 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:11:59 - INFO - Sample Logger Middleware 
+25.4.2024, 16:11:59 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:12:02 - INFO - Sample Logger Middleware 
+25.4.2024, 16:12:02 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":"o"}}} 
+25.4.2024, 16:12:03 - INFO - Sample Logger Middleware 
+25.4.2024, 16:12:03 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:13:50 - INFO - Sample Logger Middleware 
+25.4.2024, 16:13:50 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:13:50 - INFO - Sample Logger Middleware 
+25.4.2024, 16:13:50 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:19:20 - INFO - Sample Logger Middleware 
+25.4.2024, 16:19:21 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:19:21 - INFO - Sample Logger Middleware 
+25.4.2024, 16:19:21 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:30:00 - INFO - Sample Logger Middleware 
+25.4.2024, 16:30:00 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:30:00 - INFO - Sample Logger Middleware 
+25.4.2024, 16:30:00 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:50:16 - INFO - Sample Logger Middleware 
+25.4.2024, 16:50:16 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:50:17 - INFO - Sample Logger Middleware 
+25.4.2024, 16:50:17 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:51:31 - INFO - Sample Logger Middleware 
+25.4.2024, 16:51:31 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:55:36 - INFO - Sample Logger Middleware 
+25.4.2024, 16:55:36 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:55:37 - INFO - Sample Logger Middleware 
+25.4.2024, 16:55:37 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:56:51 - INFO - Sample Logger Middleware 
+25.4.2024, 16:56:51 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:56:51 - INFO - Sample Logger Middleware 
+25.4.2024, 16:56:51 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:56:59 - INFO - Sample Logger Middleware 
+25.4.2024, 16:56:59 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:57:00 - DEBUG - Getting Comments: | {"params":{"filterBy":{"txt":""}}} 
+25.4.2024, 16:56:59 - INFO - Sample Logger Middleware 

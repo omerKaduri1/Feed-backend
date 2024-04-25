@@ -3,7 +3,7 @@ import { logger } from '../../services/logger.service.js'
 import mongodb from 'mongodb'
 const { ObjectId } = mongodb
 
-async function query(filterBy = { txt: '' }) {
+async function query(filterBy) {
     console.log('from service:', filterBy)
     try {
         const criteria = {}

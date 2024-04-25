@@ -29,21 +29,20 @@ import { commentRoutes } from './api/comment/comment.routes.js'
 import { logger } from './services/logger.service.js'
 // import { authRoutes } from './api/auth/auth.routes.js'
 // import { userRoutes } from './api/user/user.routes.js'
-import { setupSocketAPI } from './services/socket.service.js'
-import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
+// import { setupSocketAPI } from './services/socket.service.js'
+// import { setupAsyncLocalStorage } from './middlewares/setupAls.middleware.js'
 
 
-app.all('*', setupAsyncLocalStorage)
+// app.all('*', setupAsyncLocalStorage)
 
 app.use('/api/comment', commentRoutes)
 // app.use('/api/auth', authRoutes)
 // app.use('/api/user', userRoutes)
-setupSocketAPI(server)
+// setupSocketAPI(server)
 
 app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
 })
-
 
 const port = process.env.PORT || 3030
 server.listen(port, () => {
